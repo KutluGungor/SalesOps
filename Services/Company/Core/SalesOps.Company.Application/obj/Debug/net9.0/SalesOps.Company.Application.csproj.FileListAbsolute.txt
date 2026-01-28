@@ -1,0 +1,15 @@
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Core\SalesOps.Company.Application\bin\Debug\net9.0\SalesOps.Company.Application.deps.json
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Core\SalesOps.Company.Application\bin\Debug\net9.0\SalesOps.Company.Application.dll
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Core\SalesOps.Company.Application\bin\Debug\net9.0\SalesOps.Company.Application.pdb
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Core\SalesOps.Company.Application\bin\Debug\net9.0\SalesOps.Company.Domain.dll
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Core\SalesOps.Company.Application\bin\Debug\net9.0\SalesOps.Company.Domain.pdb
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Core\SalesOps.Company.Application\obj\Debug\net9.0\SalesOps.Company.Application.csproj.AssemblyReference.cache
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Core\SalesOps.Company.Application\obj\Debug\net9.0\SalesOps.Company.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Core\SalesOps.Company.Application\obj\Debug\net9.0\SalesOps.Company.Application.AssemblyInfoInputs.cache
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Core\SalesOps.Company.Application\obj\Debug\net9.0\SalesOps.Company.Application.AssemblyInfo.cs
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Core\SalesOps.Company.Application\obj\Debug\net9.0\SalesOps.Company.Application.csproj.CoreCompileInputs.cache
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Core\SalesOps.Company.Application\obj\Debug\net9.0\SalesOps.6D751CC1.Up2Date
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Core\SalesOps.Company.Application\obj\Debug\net9.0\SalesOps.Company.Application.dll
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Core\SalesOps.Company.Application\obj\Debug\net9.0\refint\SalesOps.Company.Application.dll
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Core\SalesOps.Company.Application\obj\Debug\net9.0\SalesOps.Company.Application.pdb
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Core\SalesOps.Company.Application\obj\Debug\net9.0\ref\SalesOps.Company.Application.dll

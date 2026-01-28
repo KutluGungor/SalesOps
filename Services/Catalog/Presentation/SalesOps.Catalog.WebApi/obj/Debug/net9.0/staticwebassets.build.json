@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "7lKt4SQ+wqVcNp5RUbgv24rMMJDjRR6F0Xt1D7ygbk4=",
+  "Source": "SalesOps.Catalog.WebApi",
+  "BasePath": "_content/SalesOps.Catalog.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

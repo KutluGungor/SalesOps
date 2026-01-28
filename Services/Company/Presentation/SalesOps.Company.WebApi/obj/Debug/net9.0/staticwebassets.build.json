@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "6qOhPi18/hK9gW6BMJ8HdRbEyF61Njtxv3CvX5eaayA=",
+  "Source": "SalesOps.Company.WebApi",
+  "BasePath": "_content/SalesOps.Company.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

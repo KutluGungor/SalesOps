@@ -1,0 +1,15 @@
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Catalog\Infrastructure\SalesOps.Catalog.Persistance\obj\Debug\net9.0\SalesOps.Catalog.Persistance.csproj.AssemblyReference.cache
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Catalog\Infrastructure\SalesOps.Catalog.Persistance\obj\Debug\net9.0\SalesOps.Catalog.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Catalog\Infrastructure\SalesOps.Catalog.Persistance\obj\Debug\net9.0\SalesOps.Catalog.Persistance.AssemblyInfoInputs.cache
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Catalog\Infrastructure\SalesOps.Catalog.Persistance\obj\Debug\net9.0\SalesOps.Catalog.Persistance.AssemblyInfo.cs
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Catalog\Infrastructure\SalesOps.Catalog.Persistance\obj\Debug\net9.0\SalesOps.Catalog.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Catalog\Infrastructure\SalesOps.Catalog.Persistance\bin\Debug\net9.0\SalesOps.Catalog.Persistance.deps.json
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Catalog\Infrastructure\SalesOps.Catalog.Persistance\bin\Debug\net9.0\SalesOps.Catalog.Persistance.dll
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Catalog\Infrastructure\SalesOps.Catalog.Persistance\bin\Debug\net9.0\SalesOps.Catalog.Persistance.pdb
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Catalog\Infrastructure\SalesOps.Catalog.Persistance\bin\Debug\net9.0\SalesOps.Catalog.Domain.dll
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Catalog\Infrastructure\SalesOps.Catalog.Persistance\bin\Debug\net9.0\SalesOps.Catalog.Domain.pdb
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Catalog\Infrastructure\SalesOps.Catalog.Persistance\obj\Debug\net9.0\SalesOps.EE95BA23.Up2Date
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Catalog\Infrastructure\SalesOps.Catalog.Persistance\obj\Debug\net9.0\SalesOps.Catalog.Persistance.dll
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Catalog\Infrastructure\SalesOps.Catalog.Persistance\obj\Debug\net9.0\refint\SalesOps.Catalog.Persistance.dll
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Catalog\Infrastructure\SalesOps.Catalog.Persistance\obj\Debug\net9.0\SalesOps.Catalog.Persistance.pdb
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Catalog\Infrastructure\SalesOps.Catalog.Persistance\obj\Debug\net9.0\ref\SalesOps.Catalog.Persistance.dll

@@ -1,0 +1,17 @@
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Infrastructure\SalesOps.Company.Persistence\bin\Debug\net9.0\SalesOps.Company.Persistence.deps.json
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Infrastructure\SalesOps.Company.Persistence\bin\Debug\net9.0\SalesOps.Company.Persistence.runtimeconfig.json
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Infrastructure\SalesOps.Company.Persistence\bin\Debug\net9.0\SalesOps.Company.Persistence.dll
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Infrastructure\SalesOps.Company.Persistence\bin\Debug\net9.0\SalesOps.Company.Persistence.pdb
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Infrastructure\SalesOps.Company.Persistence\bin\Debug\net9.0\SalesOps.Company.Domain.dll
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Infrastructure\SalesOps.Company.Persistence\bin\Debug\net9.0\SalesOps.Company.Domain.pdb
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Infrastructure\SalesOps.Company.Persistence\obj\Debug\net9.0\SalesOps.Company.Persistence.csproj.AssemblyReference.cache
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Infrastructure\SalesOps.Company.Persistence\obj\Debug\net9.0\SalesOps.Company.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Infrastructure\SalesOps.Company.Persistence\obj\Debug\net9.0\SalesOps.Company.Persistence.AssemblyInfoInputs.cache
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Infrastructure\SalesOps.Company.Persistence\obj\Debug\net9.0\SalesOps.Company.Persistence.AssemblyInfo.cs
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Infrastructure\SalesOps.Company.Persistence\obj\Debug\net9.0\SalesOps.Company.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Infrastructure\SalesOps.Company.Persistence\obj\Debug\net9.0\SalesOps.E79451A3.Up2Date
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Infrastructure\SalesOps.Company.Persistence\obj\Debug\net9.0\SalesOps.Company.Persistence.dll
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Infrastructure\SalesOps.Company.Persistence\obj\Debug\net9.0\refint\SalesOps.Company.Persistence.dll
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Infrastructure\SalesOps.Company.Persistence\obj\Debug\net9.0\SalesOps.Company.Persistence.pdb
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Infrastructure\SalesOps.Company.Persistence\obj\Debug\net9.0\SalesOps.Company.Persistence.genruntimeconfig.cache
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Infrastructure\SalesOps.Company.Persistence\obj\Debug\net9.0\ref\SalesOps.Company.Persistence.dll

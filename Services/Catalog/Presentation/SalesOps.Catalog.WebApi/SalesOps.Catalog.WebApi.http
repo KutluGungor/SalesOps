@@ -1,0 +1,6 @@
+@SalesOps.Catalog.WebApi_HostAddress = http://localhost:5042
+
+GET {{SalesOps.Catalog.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,337 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kutlu.gungor\\source\\repos\\SalesOps\\Services\\Catalog\\Presentation\\SalesOps.Catalog.WebApi\\SalesOps.Catalog.WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kutlu.gungor\\source\\repos\\SalesOps\\Services\\Catalog\\Core\\SalesOps.Catalog.Application\\SalesOps.Catalog.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kutlu.gungor\\source\\repos\\SalesOps\\Services\\Catalog\\Core\\SalesOps.Catalog.Application\\SalesOps.Catalog.Application.csproj",
+        "projectName": "SalesOps.Catalog.Application",
+        "projectPath": "C:\\Users\\kutlu.gungor\\source\\repos\\SalesOps\\Services\\Catalog\\Core\\SalesOps.Catalog.Application\\SalesOps.Catalog.Application.csproj",
+        "packagesPath": "C:\\Users\\kutlu.gungor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kutlu.gungor\\source\\repos\\SalesOps\\Services\\Catalog\\Core\\SalesOps.Catalog.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kutlu.gungor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\kutlu.gungor\\source\\repos\\SalesOps\\Services\\Catalog\\Core\\SalesOps.Catalog.Domain\\SalesOps.Catalog.Domain.csproj": {
+                "projectPath": "C:\\Users\\kutlu.gungor\\source\\repos\\SalesOps\\Services\\Catalog\\Core\\SalesOps.Catalog.Domain\\SalesOps.Catalog.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kutlu.gungor\\source\\repos\\SalesOps\\Services\\Catalog\\Core\\SalesOps.Catalog.Domain\\SalesOps.Catalog.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kutlu.gungor\\source\\repos\\SalesOps\\Services\\Catalog\\Core\\SalesOps.Catalog.Domain\\SalesOps.Catalog.Domain.csproj",
+        "projectName": "SalesOps.Catalog.Domain",
+        "projectPath": "C:\\Users\\kutlu.gungor\\source\\repos\\SalesOps\\Services\\Catalog\\Core\\SalesOps.Catalog.Domain\\SalesOps.Catalog.Domain.csproj",
+        "packagesPath": "C:\\Users\\kutlu.gungor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kutlu.gungor\\source\\repos\\SalesOps\\Services\\Catalog\\Core\\SalesOps.Catalog.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kutlu.gungor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[3.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kutlu.gungor\\source\\repos\\SalesOps\\Services\\Catalog\\Infrastructure\\SalesOps.Catalog.Persistance\\SalesOps.Catalog.Persistance.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kutlu.gungor\\source\\repos\\SalesOps\\Services\\Catalog\\Infrastructure\\SalesOps.Catalog.Persistance\\SalesOps.Catalog.Persistance.csproj",
+        "projectName": "SalesOps.Catalog.Persistance",
+        "projectPath": "C:\\Users\\kutlu.gungor\\source\\repos\\SalesOps\\Services\\Catalog\\Infrastructure\\SalesOps.Catalog.Persistance\\SalesOps.Catalog.Persistance.csproj",
+        "packagesPath": "C:\\Users\\kutlu.gungor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kutlu.gungor\\source\\repos\\SalesOps\\Services\\Catalog\\Infrastructure\\SalesOps.Catalog.Persistance\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kutlu.gungor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\kutlu.gungor\\source\\repos\\SalesOps\\Services\\Catalog\\Core\\SalesOps.Catalog.Domain\\SalesOps.Catalog.Domain.csproj": {
+                "projectPath": "C:\\Users\\kutlu.gungor\\source\\repos\\SalesOps\\Services\\Catalog\\Core\\SalesOps.Catalog.Domain\\SalesOps.Catalog.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[10.0.2, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[10.0.2, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[10.0.2, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[10.0.2, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kutlu.gungor\\source\\repos\\SalesOps\\Services\\Catalog\\Presentation\\SalesOps.Catalog.WebApi\\SalesOps.Catalog.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kutlu.gungor\\source\\repos\\SalesOps\\Services\\Catalog\\Presentation\\SalesOps.Catalog.WebApi\\SalesOps.Catalog.WebApi.csproj",
+        "projectName": "SalesOps.Catalog.WebApi",
+        "projectPath": "C:\\Users\\kutlu.gungor\\source\\repos\\SalesOps\\Services\\Catalog\\Presentation\\SalesOps.Catalog.WebApi\\SalesOps.Catalog.WebApi.csproj",
+        "packagesPath": "C:\\Users\\kutlu.gungor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kutlu.gungor\\source\\repos\\SalesOps\\Services\\Catalog\\Presentation\\SalesOps.Catalog.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kutlu.gungor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\kutlu.gungor\\source\\repos\\SalesOps\\Services\\Catalog\\Core\\SalesOps.Catalog.Application\\SalesOps.Catalog.Application.csproj": {
+                "projectPath": "C:\\Users\\kutlu.gungor\\source\\repos\\SalesOps\\Services\\Catalog\\Core\\SalesOps.Catalog.Application\\SalesOps.Catalog.Application.csproj"
+              },
+              "C:\\Users\\kutlu.gungor\\source\\repos\\SalesOps\\Services\\Catalog\\Core\\SalesOps.Catalog.Domain\\SalesOps.Catalog.Domain.csproj": {
+                "projectPath": "C:\\Users\\kutlu.gungor\\source\\repos\\SalesOps\\Services\\Catalog\\Core\\SalesOps.Catalog.Domain\\SalesOps.Catalog.Domain.csproj"
+              },
+              "C:\\Users\\kutlu.gungor\\source\\repos\\SalesOps\\Services\\Catalog\\Infrastructure\\SalesOps.Catalog.Persistance\\SalesOps.Catalog.Persistance.csproj": {
+                "projectPath": "C:\\Users\\kutlu.gungor\\source\\repos\\SalesOps\\Services\\Catalog\\Infrastructure\\SalesOps.Catalog.Persistance\\SalesOps.Catalog.Persistance.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
