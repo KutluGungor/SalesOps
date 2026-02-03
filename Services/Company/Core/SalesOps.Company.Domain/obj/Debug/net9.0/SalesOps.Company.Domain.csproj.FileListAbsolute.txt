@@ -9,3 +9,4 @@ C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Core\SalesOps.Compa
 C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Core\SalesOps.Company.Domain\obj\Debug\net9.0\refint\SalesOps.Company.Domain.dll
 C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Core\SalesOps.Company.Domain\obj\Debug\net9.0\SalesOps.Company.Domain.pdb
 C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Core\SalesOps.Company.Domain\obj\Debug\net9.0\ref\SalesOps.Company.Domain.dll
+c:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Core\SalesOps.Company.Domain\obj\Debug\net9.0\SalesOps.Company.Domain.sourcelink.json

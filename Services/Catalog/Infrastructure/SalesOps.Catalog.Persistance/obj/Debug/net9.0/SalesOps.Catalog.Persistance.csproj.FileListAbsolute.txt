@@ -13,3 +13,4 @@ C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Catalog\Infrastructure\Sale
 C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Catalog\Infrastructure\SalesOps.Catalog.Persistance\obj\Debug\net9.0\refint\SalesOps.Catalog.Persistance.dll
 C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Catalog\Infrastructure\SalesOps.Catalog.Persistance\obj\Debug\net9.0\SalesOps.Catalog.Persistance.pdb
 C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Catalog\Infrastructure\SalesOps.Catalog.Persistance\obj\Debug\net9.0\ref\SalesOps.Catalog.Persistance.dll
+c:\Users\kutlu.gungor\source\repos\SalesOps\Services\Catalog\Infrastructure\SalesOps.Catalog.Persistance\obj\Debug\net9.0\SalesOps.Catalog.Persistance.sourcelink.json

@@ -24,3 +24,4 @@ C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Catalog\Core\SalesOps.Catal
 C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Catalog\Core\SalesOps.Catalog.Application\obj\Debug\net9.0\refint\SalesOps.Catalog.Application.dll
 C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Catalog\Core\SalesOps.Catalog.Application\obj\Debug\net9.0\SalesOps.Catalog.Application.pdb
 C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Catalog\Core\SalesOps.Catalog.Application\obj\Debug\net9.0\ref\SalesOps.Catalog.Application.dll
+c:\Users\kutlu.gungor\source\repos\SalesOps\Services\Catalog\Core\SalesOps.Catalog.Application\obj\Debug\net9.0\SalesOps.Catalog.Application.sourcelink.json

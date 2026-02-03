@@ -14,35 +14,40 @@ public class BranchRepository : IBranchRepository
         _context = context;
     }
 
-    public async Task<Branch> GetBranchByIdAsync(int id)
+    public async Task<Branch?> GetBranchByIdAsync(int id)
     {
-        var branch = await _context.Branches.FindAsync(id);
-        if (branch == null)
-        {
-            throw new Exception("Branch not found");
-        }
-        return branch;
+        return await _context.Branches
+            .FirstOrDefaultAsync(b => b.Id == id && b.IsActive);
     }
 
     public async Task CreateBranchAsync(Branch branch)
     {
+        branch.CreatedAt = DateTime.UtcNow;
+        branch.UpdatedAt = DateTime.UtcNow;
+
         await _context.Branches.AddAsync(branch);
         await _context.SaveChangesAsync();
     }
 
     public async Task UpdateBranchAsync(Branch branch)
     {
+        branch.UpdatedAt = DateTime.UtcNow;
         _context.Branches.Update(branch);
         await _context.SaveChangesAsync();
     }
 
     public async Task DeleteBranchAsync(int id)
     {
-        var branch = await _context.Branches.FindAsync(id);
-        if (branch != null)
-        {
-            _context.Branches.Remove(branch);
-            await _context.SaveChangesAsync();
-        }
+        var branch = await _context.Branches
+            .FirstOrDefaultAsync(b => b.Id == id && b.IsActive);
+
+        if (branch == null)
+            throw new Exception("Branch not found");
+
+        branch.Deactive();
+        branch.UpdatedAt = DateTime.UtcNow;
+
+        _context.Branches.Update(branch);
+        await _context.SaveChangesAsync();
     }
 }

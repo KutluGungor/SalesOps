@@ -1,3 +1,5 @@
+using System.Xml.Serialization;
+
 namespace SalesOps.Company.Domain.Entity;
 
 public class Organization
@@ -13,4 +15,10 @@ public class Organization
     public bool IsActive { get; set; }
     
     public ICollection<Branch> Branches { get; set; }
+
+    public void Deactive()
+    {
+        IsActive = false;
+        UpdatedAt = DateTime.UtcNow;
+    }
 }

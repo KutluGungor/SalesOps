@@ -335,11 +335,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kutlu.gungor\\source\\repos\\SalesOps\\Services\\Company\\Core\\SalesOps.Company.Application\\SalesOps.Company.Application.csproj",
+      "projectUniqueName": "c:\\Users\\kutlu.gungor\\source\\repos\\SalesOps\\Services\\Company\\Core\\SalesOps.Company.Application\\SalesOps.Company.Application.csproj",
       "projectName": "SalesOps.Company.Application",
-      "projectPath": "C:\\Users\\kutlu.gungor\\source\\repos\\SalesOps\\Services\\Company\\Core\\SalesOps.Company.Application\\SalesOps.Company.Application.csproj",
+      "projectPath": "c:\\Users\\kutlu.gungor\\source\\repos\\SalesOps\\Services\\Company\\Core\\SalesOps.Company.Application\\SalesOps.Company.Application.csproj",
       "packagesPath": "C:\\Users\\kutlu.gungor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kutlu.gungor\\source\\repos\\SalesOps\\Services\\Company\\Core\\SalesOps.Company.Application\\obj\\",
+      "outputPath": "c:\\Users\\kutlu.gungor\\source\\repos\\SalesOps\\Services\\Company\\Core\\SalesOps.Company.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

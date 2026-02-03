@@ -21,3 +21,4 @@ C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Catalog\Core\SalesOps.Catal
 C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Catalog\Core\SalesOps.Catalog.Domain\bin\Debug\net9.0\SalesOps.Catalog.Domain.pdb
 C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Catalog\Core\SalesOps.Catalog.Domain\obj\Debug\net9.0\SalesOps.Catalog.Domain.csproj.AssemblyReference.cache
 C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Catalog\Core\SalesOps.Catalog.Domain\obj\Debug\net9.0\ref\SalesOps.Catalog.Domain.dll
+c:\Users\kutlu.gungor\source\repos\SalesOps\Services\Catalog\Core\SalesOps.Catalog.Domain\obj\Debug\net9.0\SalesOps.Catalog.Domain.sourcelink.json

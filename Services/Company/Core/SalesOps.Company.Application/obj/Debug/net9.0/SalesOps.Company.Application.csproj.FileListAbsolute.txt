@@ -13,3 +13,4 @@ C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Core\SalesOps.Compa
 C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Core\SalesOps.Company.Application\obj\Debug\net9.0\refint\SalesOps.Company.Application.dll
 C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Core\SalesOps.Company.Application\obj\Debug\net9.0\SalesOps.Company.Application.pdb
 C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Core\SalesOps.Company.Application\obj\Debug\net9.0\ref\SalesOps.Company.Application.dll
+c:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Core\SalesOps.Company.Application\obj\Debug\net9.0\SalesOps.Company.Application.sourcelink.json

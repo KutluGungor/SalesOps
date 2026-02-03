@@ -13,4 +13,10 @@ public class Branch
     public int OrganizationId { get; set; } 
     public Organization Organization { get; set; }
 
+    public void Deactive()
+    {
+        IsActive = false;
+        UpdatedAt = DateTime.UtcNow;
+    }
+
 }

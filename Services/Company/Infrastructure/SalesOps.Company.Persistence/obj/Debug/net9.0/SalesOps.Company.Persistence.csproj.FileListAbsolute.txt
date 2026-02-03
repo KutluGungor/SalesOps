@@ -15,3 +15,4 @@ C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Infrastructure\Sale
 C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Infrastructure\SalesOps.Company.Persistence\obj\Debug\net9.0\SalesOps.Company.Persistence.pdb
 C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Infrastructure\SalesOps.Company.Persistence\obj\Debug\net9.0\SalesOps.Company.Persistence.genruntimeconfig.cache
 C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Infrastructure\SalesOps.Company.Persistence\obj\Debug\net9.0\ref\SalesOps.Company.Persistence.dll
+c:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Infrastructure\SalesOps.Company.Persistence\obj\Debug\net9.0\SalesOps.Company.Persistence.sourcelink.json

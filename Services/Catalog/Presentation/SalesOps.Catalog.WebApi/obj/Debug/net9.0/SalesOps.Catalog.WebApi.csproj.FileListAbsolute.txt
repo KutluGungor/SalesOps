@@ -55,4 +55,4 @@ C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Catalog\Presentation\SalesO
 C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Catalog\Presentation\SalesOps.Catalog.WebApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Catalog\Presentation\SalesOps.Catalog.WebApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Catalog\Presentation\SalesOps.Catalog.WebApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Catalog\Presentation\SalesOps.Catalog.WebApi\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+c:\Users\kutlu.gungor\source\repos\SalesOps\Services\Catalog\Presentation\SalesOps.Catalog.WebApi\obj\Debug\net9.0\SalesOps.Catalog.WebApi.sourcelink.json
