@@ -9,11 +9,8 @@ namespace SalesOps.Company.Persistence.Extensions;
 
 public static class ServiceRegistration
 {
-    public static IServiceCollection AddPersistenceServices(
-        this IServiceCollection services,
-        IConfiguration configuration)
-    {
-        
+    public static IServiceCollection AddPersistenceServices(this IServiceCollection services,IConfiguration configuration)
+    { 
         services.AddDbContext<CompanyContext>(options =>
             options.UseNpgsql(configuration.GetConnectionString("CompanyDb")));
 
