@@ -1,0 +1,72 @@
+IdentityServer/SalesOps.DuendeIdentityServer/obj/Debug/net9.0/SalesOps.DuendeIdentityServer.AssemblyInfo.cs
+  h_ae86336e0badd6 16
+IdentityServer/SalesOps.DuendeIdentityServer/obj/Debug/net9.0/SalesOps.DuendeIdentityServer.AssemblyInfoInputs.cache
+  h_ae86336e0badd6 1
+Services/Catalog/Core/SalesOps.Catalog.Application/obj/Debug/net9.0/SalesOps.Catalog.Application.AssemblyInfo.cs
+  h_ae86336e0badd6 16
+Services/Catalog/Core/SalesOps.Catalog.Application/obj/Debug/net9.0/SalesOps.Catalog.Application.AssemblyInfoInputs.cache
+  h_ae86336e0badd6 1
+Services/Catalog/Core/SalesOps.Catalog.Domain/obj/Debug/net9.0/SalesOps.Catalog.Domain.AssemblyInfo.cs
+  h_ae86336e0badd6 16
+Services/Catalog/Core/SalesOps.Catalog.Domain/obj/Debug/net9.0/SalesOps.Catalog.Domain.AssemblyInfoInputs.cache
+  h_ae86336e0badd6 1
+Services/Catalog/Infrastructure/SalesOps.Catalog.Persistance/obj/Debug/net9.0/SalesOps.Catalog.Persistance.AssemblyInfo.cs
+  h_ae86336e0badd6 16
+Services/Catalog/Infrastructure/SalesOps.Catalog.Persistance/obj/Debug/net9.0/SalesOps.Catalog.Persistance.AssemblyInfoInputs.cache
+  h_ae86336e0badd6 1
+Services/Catalog/Presentation/SalesOps.Catalog.WebApi/obj/Debug/net9.0/SalesOps.Catalog.WebApi.AssemblyInfo.cs
+  h_ae86336e0badd6 16
+Services/Catalog/Presentation/SalesOps.Catalog.WebApi/obj/Debug/net9.0/SalesOps.Catalog.WebApi.AssemblyInfoInputs.cache
+  h_ae86336e0badd6 1
+Services/Company/Core/SalesOps.Company.Application/obj/Debug/net9.0/SalesOps.Company.Application.AssemblyInfo.cs
+  h_ae86336e0badd6 16
+Services/Company/Core/SalesOps.Company.Application/obj/Debug/net9.0/SalesOps.Company.Application.AssemblyInfoInputs.cache
+  h_ae86336e0badd6 1
+Services/Company/Core/SalesOps.Company.Domain/obj/Debug/net9.0/SalesOps.Company.Domain.AssemblyInfo.cs
+  h_ae86336e0badd6 16
+Services/Company/Core/SalesOps.Company.Domain/obj/Debug/net9.0/SalesOps.Company.Domain.AssemblyInfoInputs.cache
+  h_ae86336e0badd6 1
+Services/Company/Infrastructure/SalesOps.Company.Persistence/obj/Debug/net9.0/SalesOps.Company.Persistence.AssemblyInfo.cs
+  h_ae86336e0badd6 16
+Services/Company/Infrastructure/SalesOps.Company.Persistence/obj/Debug/net9.0/SalesOps.Company.Persistence.AssemblyInfoInputs.cache
+  h_ae86336e0badd6 1
+Services/Company/Presentation/SalesOps.Company.WebApi/obj/Debug/net9.0/SalesOps.Company.WebApi.AssemblyInfo.cs
+  h_ae86336e0badd6 16
+Services/Company/Presentation/SalesOps.Company.WebApi/obj/Debug/net9.0/SalesOps.Company.WebApi.AssemblyInfoInputs.cache
+  h_ae86336e0badd6 1
+Services/Employee/Core/SalesOps.Employee.Application/obj/Debug/net9.0/SalesOps.Employee.Application.AssemblyInfo.cs
+  h_ae86336e0badd6 16,21
+Services/Employee/Core/SalesOps.Employee.Application/obj/Debug/net9.0/SalesOps.Employee.Application.AssemblyInfoInputs.cache
+  h_ae86336e0badd6 1
+Services/Employee/Core/SalesOps.Employee.Domain/obj/Debug/net9.0/SalesOps.Employee.Domain.AssemblyInfo.cs
+  h_ae86336e0badd6 16,21
+Services/Employee/Core/SalesOps.Employee.Domain/obj/Debug/net9.0/SalesOps.Employee.Domain.AssemblyInfoInputs.cache
+  h_ae86336e0badd6 1
+Services/Employee/Infrastructure/SalesOps.Employee.Persistence/obj/Debug/net9.0/SalesOps.Employee.Persistence.AssemblyInfo.cs
+  h_ae86336e0badd6 16,21
+Services/Employee/Infrastructure/SalesOps.Employee.Persistence/obj/Debug/net9.0/SalesOps.Employee.Persistence.AssemblyInfoInputs.cache
+  h_ae86336e0badd6 1
+Services/Employee/Presentation/SalesOps.Employee.WebApi/obj/Debug/net9.0/SalesOps.Employee.WebApi.AssemblyInfo.cs
+  h_ae86336e0badd6 16
+Services/Employee/Presentation/SalesOps.Employee.WebApi/obj/Debug/net9.0/SalesOps.Employee.WebApi.AssemblyInfoInputs.cache
+  h_ae86336e0badd6 1
+Services/Employee/Tests/SalesOps.Employee.Application.Tests/obj/Debug/net9.0/SalesOps.Employee.Application.Tests.AssemblyInfo.cs
+  h_ae86336e0badd6 16,21
+Services/Employee/Tests/SalesOps.Employee.Application.Tests/obj/Debug/net9.0/SalesOps.Employee.Application.Tests.AssemblyInfoInputs.cache
+  h_ae86336e0badd6 1
+Services/Sales/SalesOps.Sales.WebApi/obj/Debug/net9.0/SalesOps.Sales.WebApi.AssemblyInfo.cs
+  h_ae86336e0badd6 16
+Services/Sales/SalesOps.Sales.WebApi/obj/Debug/net9.0/SalesOps.Sales.WebApi.AssemblyInfoInputs.cache
+  h_ae86336e0badd6 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "c06d446fb5a5fb48c2068673dc81b2ee6c083025",
+  "prompts": {},
+  "humans": {
+    "h_ae86336e0badd6": {
+      "author": "Kutlu Gungor <kutlu.gungor@kariyer.net>"
+    }
+  }
+}
