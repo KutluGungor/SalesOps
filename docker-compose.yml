@@ -1,0 +1,90 @@
+version: "3.9"
+
+services:
+  postgres:
+    image: postgres:16
+    container_name: company-postgres
+    restart: unless-stopped
+
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: CompanyDb123!
+      POSTGRES_DB: CompanyDb
+
+    ports:
+      - "55432:5432"
+
+    volumes:
+      - company_pg_data:/var/lib/postgresql/data
+
+    networks:
+      - SalesOps
+
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: employee-sqlserver
+    restart: unless-stopped
+
+    # Bu container hem Employee hem de Identity veritabanlarını barındırır.
+    # - EmployeeDb   → Employee servisi
+    # - SalesOpsIdentityDb → Duende IdentityServer
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: "EmployeeDb123!"
+      MSSQL_PID: "Express"
+
+    ports:
+      - "55433:1433"
+
+    volumes:
+      - employee_sql_data:/var/opt/mssql
+
+    networks:
+      - SalesOps
+
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:8.12.0
+    container_name: sales-elasticsearch
+    restart: unless-stopped
+
+    environment:
+      - discovery.type=single-node
+      - xpack.security.enabled=false
+      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+
+    ports:
+      - "9200:9200"
+      - "9300:9300"
+
+    volumes:
+      - sales_elastic_data:/usr/share/elasticsearch/data
+
+    networks:
+      - SalesOps
+
+  kibana:
+    image: docker.elastic.co/kibana/kibana:8.12.0
+    container_name: sales-kibana
+    restart: unless-stopped
+
+    environment:
+      - ELASTICSEARCH_HOSTS=http://elasticsearch:9200
+
+    ports:
+      - "5601:5601"
+
+    depends_on:
+      - elasticsearch
+
+    networks:
+      - SalesOps
+
+
+volumes:
+  company_pg_data:
+  employee_sql_data:
+  sales_elastic_data:
+
+networks:
+  SalesOps:
+    external: true

@@ -1,0 +1,6 @@
+{
+  "SalesOps.Employee.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\kutlu.gungor\\source\\repos\\SalesOps\\Services\\Employee\\Core\\SalesOps.Employee.Application",
+  "SalesOps.Employee.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\kutlu.gungor\\source\\repos\\SalesOps\\Services\\Employee\\Core\\SalesOps.Employee.Domain",
+  "SalesOps.Employee.Persistence, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\kutlu.gungor\\source\\repos\\SalesOps\\Services\\Employee\\Infrastructure\\SalesOps.Employee.Persistence",
+  "SalesOps.Employee.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\kutlu.gungor\\source\\repos\\SalesOps\\Services\\Employee\\Presentation\\SalesOps.Employee.WebApi"
+}

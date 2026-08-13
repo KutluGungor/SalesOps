@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using SalesOps.Catalog.Application.Dtos.CategoryDtos;
 using SalesOps.Catalog.Application.Services.CategoryServices;
@@ -6,6 +7,7 @@ namespace SalesOps.Catalog.WebApi.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]
+[Authorize]
 public class CategoryController : ControllerBase
 {
     private readonly ICategoryService _categoryService;

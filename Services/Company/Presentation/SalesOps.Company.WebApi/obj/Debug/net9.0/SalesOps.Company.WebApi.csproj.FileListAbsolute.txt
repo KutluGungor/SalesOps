@@ -131,3 +131,11 @@ C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Presentation\SalesO
 C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Presentation\SalesOps.Company.WebApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Presentation\SalesOps.Company.WebApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 c:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Presentation\SalesOps.Company.WebApi\obj\Debug\net9.0\SalesOps.Company.WebApi.sourcelink.json
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Presentation\SalesOps.Company.WebApi\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Presentation\SalesOps.Company.WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Presentation\SalesOps.Company.WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Presentation\SalesOps.Company.WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Presentation\SalesOps.Company.WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Presentation\SalesOps.Company.WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Presentation\SalesOps.Company.WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Company\Presentation\SalesOps.Company.WebApi\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll

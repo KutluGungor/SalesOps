@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "lBj2OB2bSsBjeHJpYCIa7bwDZ7AE69HA4su7a2p9h/I=",
+  "Source": "SalesOps.DuendeIdentityServer",
+  "BasePath": "_content/SalesOps.DuendeIdentityServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

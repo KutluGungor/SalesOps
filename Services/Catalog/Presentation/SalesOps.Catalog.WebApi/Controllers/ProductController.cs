@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using SalesOps.Catalog.Application.Dtos.ProductDtos;
 using SalesOps.Catalog.Application.Services.ProductServices;
@@ -6,6 +7,7 @@ namespace SalesOps.Catalog.WebApi.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]
+[Authorize]
 public class ProductController : ControllerBase
 {private readonly IProductService _productService;
 

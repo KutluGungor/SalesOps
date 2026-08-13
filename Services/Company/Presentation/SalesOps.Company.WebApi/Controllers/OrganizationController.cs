@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using SalesOps.Company.Application.Dtos.OrganizationDtos;
 using SalesOps.Company.Application.Services.OrganizationService;
@@ -6,6 +7,7 @@ namespace SalesOps.Company.WebApi.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]
+[Authorize]
 public class OrganizationController : ControllerBase
 {
     private readonly IOrganizationService _organizationService;

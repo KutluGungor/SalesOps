@@ -170,3 +170,4 @@ C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Employee\Presentation\Sales
 C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Employee\Presentation\SalesOps.Employee.WebApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Employee\Presentation\SalesOps.Employee.WebApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Employee\Presentation\SalesOps.Employee.WebApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kutlu.gungor\source\repos\SalesOps\Services\Employee\Presentation\SalesOps.Employee.WebApi\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
