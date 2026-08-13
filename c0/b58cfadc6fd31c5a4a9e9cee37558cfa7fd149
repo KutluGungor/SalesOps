@@ -1,0 +1,21 @@
+PROJECT.md
+  s_fedfe9dd870755::t_81c27c1229907c 15-38
+scripts/setup-new-machine.ps1
+  s_fedfe9dd870755::t_1dbeef26754628 1-38
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "c0b58cfadc6fd31c5a4a9e9cee37558cfa7fd149",
+  "prompts": {},
+  "sessions": {
+    "s_fedfe9dd870755": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "c25e379f-8614-4e3b-9d46-138919bf8e6d",
+        "model": "copilot/gpt-5.3-codex"
+      },
+      "human_author": "Kutlu Gungor <kutlu.gungor@kariyer.net>"
+    }
+  }
+}
