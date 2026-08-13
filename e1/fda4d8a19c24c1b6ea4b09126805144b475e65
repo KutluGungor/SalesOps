@@ -1,0 +1,448 @@
+IdentityServer/SalesOps.DuendeIdentityServer/Config.cs
+  h_ae86336e0badd6 1-88
+IdentityServer/SalesOps.DuendeIdentityServer/Data/ApplicationDbContext.cs
+  h_ae86336e0badd6 1-15
+IdentityServer/SalesOps.DuendeIdentityServer/Data/DatabaseInitializer.cs
+  h_ae86336e0badd6 1-87
+IdentityServer/SalesOps.DuendeIdentityServer/Data/Migrations/Configuration/20260304220540_InitialConfigurationStore.Designer.cs
+  h_ae86336e0badd6 1-1116
+IdentityServer/SalesOps.DuendeIdentityServer/Data/Migrations/Configuration/20260304220540_InitialConfigurationStore.cs
+  h_ae86336e0badd6 1-721
+IdentityServer/SalesOps.DuendeIdentityServer/Data/Migrations/Configuration/ConfigurationDbContextModelSnapshot.cs
+  h_ae86336e0badd6 1-1113
+IdentityServer/SalesOps.DuendeIdentityServer/Data/Migrations/Identity/20260304220224_InitialIdentity.Designer.cs
+  h_ae86336e0badd6 1-291
+IdentityServer/SalesOps.DuendeIdentityServer/Data/Migrations/Identity/20260304220224_InitialIdentity.cs
+  h_ae86336e0badd6 1-228
+IdentityServer/SalesOps.DuendeIdentityServer/Data/Migrations/Identity/ApplicationDbContextModelSnapshot.cs
+  h_ae86336e0badd6 1-288
+IdentityServer/SalesOps.DuendeIdentityServer/Data/Migrations/Operational/20260304221654_InitialOperationalStore.Designer.cs
+  h_ae86336e0badd6 1-270
+IdentityServer/SalesOps.DuendeIdentityServer/Data/Migrations/Operational/20260304221654_InitialOperationalStore.cs
+  h_ae86336e0badd6 1-209
+IdentityServer/SalesOps.DuendeIdentityServer/Data/Migrations/Operational/PersistedGrantDbContextModelSnapshot.cs
+  h_ae86336e0badd6 1-267
+IdentityServer/SalesOps.DuendeIdentityServer/Models/ApplicationUser.cs
+  h_ae86336e0badd6 1-11
+IdentityServer/SalesOps.DuendeIdentityServer/Program.cs
+  h_ae86336e0badd6 1-66
+IdentityServer/SalesOps.DuendeIdentityServer/Properties/launchSettings.json
+  h_ae86336e0badd6 1-23
+IdentityServer/SalesOps.DuendeIdentityServer/SalesOps.DuendeIdentityServer.csproj
+  h_ae86336e0badd6 1-21
+IdentityServer/SalesOps.DuendeIdentityServer/SalesOps.DuendeIdentityServer.http
+  h_ae86336e0badd6 1-6
+IdentityServer/SalesOps.DuendeIdentityServer/Services/CustomProfileService.cs
+  h_ae86336e0badd6 1-45
+IdentityServer/SalesOps.DuendeIdentityServer/appsettings.Development.json
+  h_ae86336e0badd6 1-8
+IdentityServer/SalesOps.DuendeIdentityServer/appsettings.json
+  h_ae86336e0badd6 1-13
+IdentityServer/SalesOps.DuendeIdentityServer/bin/Debug/net9.0/SalesOps.DuendeIdentityServer.deps.json
+  h_ae86336e0badd6 1-1765
+IdentityServer/SalesOps.DuendeIdentityServer/bin/Debug/net9.0/SalesOps.DuendeIdentityServer.runtimeconfig.json
+  h_ae86336e0badd6 1-20
+IdentityServer/SalesOps.DuendeIdentityServer/bin/Debug/net9.0/SalesOps.DuendeIdentityServer.staticwebassets.endpoints.json
+  h_ae86336e0badd6 1-5
+IdentityServer/SalesOps.DuendeIdentityServer/bin/Debug/net9.0/appsettings.Development.json
+  h_ae86336e0badd6 1-8
+IdentityServer/SalesOps.DuendeIdentityServer/bin/Debug/net9.0/appsettings.json
+  h_ae86336e0badd6 1-13
+IdentityServer/SalesOps.DuendeIdentityServer/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs
+  h_ae86336e0badd6 1-4
+IdentityServer/SalesOps.DuendeIdentityServer/obj/Debug/net9.0/SalesOps.DuendeIdentityServer.AssemblyInfo.cs
+  h_ae86336e0badd6 1-22
+IdentityServer/SalesOps.DuendeIdentityServer/obj/Debug/net9.0/SalesOps.DuendeIdentityServer.AssemblyInfoInputs.cache
+  h_ae86336e0badd6 1
+IdentityServer/SalesOps.DuendeIdentityServer/obj/Debug/net9.0/SalesOps.DuendeIdentityServer.GeneratedMSBuildEditorConfig.editorconfig
+  h_ae86336e0badd6 1-29
+IdentityServer/SalesOps.DuendeIdentityServer/obj/Debug/net9.0/SalesOps.DuendeIdentityServer.GlobalUsings.g.cs
+  h_ae86336e0badd6 1-17
+IdentityServer/SalesOps.DuendeIdentityServer/obj/Debug/net9.0/SalesOps.DuendeIdentityServer.MvcApplicationPartsAssemblyInfo.cs
+  h_ae86336e0badd6 1-16
+IdentityServer/SalesOps.DuendeIdentityServer/obj/Debug/net9.0/SalesOps.DuendeIdentityServer.csproj.CoreCompileInputs.cache
+  h_ae86336e0badd6 1
+IdentityServer/SalesOps.DuendeIdentityServer/obj/Debug/net9.0/SalesOps.DuendeIdentityServer.csproj.FileListAbsolute.txt
+  h_ae86336e0badd6 1-174
+IdentityServer/SalesOps.DuendeIdentityServer/obj/Debug/net9.0/SalesOps.DuendeIdentityServer.genruntimeconfig.cache
+  h_ae86336e0badd6 1
+IdentityServer/SalesOps.DuendeIdentityServer/obj/Debug/net9.0/SalesOps.DuendeIdentityServer.sourcelink.json
+  h_ae86336e0badd6 1
+IdentityServer/SalesOps.DuendeIdentityServer/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+  h_ae86336e0badd6 1-5
+IdentityServer/SalesOps.DuendeIdentityServer/obj/Debug/net9.0/staticwebassets.build.json
+  h_ae86336e0badd6 1-12
+IdentityServer/SalesOps.DuendeIdentityServer/obj/Debug/net9.0/staticwebassets/msbuild.build.SalesOps.DuendeIdentityServer.props
+  h_ae86336e0badd6 1-4
+IdentityServer/SalesOps.DuendeIdentityServer/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.SalesOps.DuendeIdentityServer.props
+  h_ae86336e0badd6 1-3
+IdentityServer/SalesOps.DuendeIdentityServer/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.SalesOps.DuendeIdentityServer.props
+  h_ae86336e0badd6 1-3
+IdentityServer/SalesOps.DuendeIdentityServer/obj/SalesOps.DuendeIdentityServer.csproj.EntityFrameworkCore.targets
+  h_ae86336e0badd6 1-28
+IdentityServer/SalesOps.DuendeIdentityServer/obj/SalesOps.DuendeIdentityServer.csproj.nuget.dgspec.json
+  h_ae86336e0badd6 1-104
+IdentityServer/SalesOps.DuendeIdentityServer/obj/SalesOps.DuendeIdentityServer.csproj.nuget.g.props
+  h_ae86336e0badd6 1-25
+IdentityServer/SalesOps.DuendeIdentityServer/obj/SalesOps.DuendeIdentityServer.csproj.nuget.g.targets
+  h_ae86336e0badd6 1-10
+IdentityServer/SalesOps.DuendeIdentityServer/obj/project.assets.json
+  h_ae86336e0badd6 1-5077
+IdentityServer/SalesOps.DuendeIdentityServer/obj/project.nuget.cache
+  h_ae86336e0badd6 1-99
+PROJECT.md
+  h_ae86336e0badd6 1-183
+SalesOps.sln
+  h_ae86336e0badd6 56-67,122-133,163-167
+Services/Catalog/Core/SalesOps.Catalog.Application/obj/Debug/net9.0/SalesOps.Catalog.Application.AssemblyInfo.cs
+  h_ae86336e0badd6 16
+Services/Catalog/Core/SalesOps.Catalog.Application/obj/Debug/net9.0/SalesOps.Catalog.Application.AssemblyInfoInputs.cache
+  h_ae86336e0badd6 1
+Services/Catalog/Core/SalesOps.Catalog.Application/obj/Debug/net9.0/SalesOps.Catalog.Application.sourcelink.json
+  h_ae86336e0badd6 1
+Services/Catalog/Core/SalesOps.Catalog.Domain/obj/Debug/net9.0/SalesOps.Catalog.Domain.AssemblyInfo.cs
+  h_ae86336e0badd6 16
+Services/Catalog/Core/SalesOps.Catalog.Domain/obj/Debug/net9.0/SalesOps.Catalog.Domain.AssemblyInfoInputs.cache
+  h_ae86336e0badd6 1
+Services/Catalog/Core/SalesOps.Catalog.Domain/obj/Debug/net9.0/SalesOps.Catalog.Domain.sourcelink.json
+  h_ae86336e0badd6 1
+Services/Catalog/Infrastructure/SalesOps.Catalog.Persistance/obj/Debug/net9.0/SalesOps.Catalog.Persistance.AssemblyInfo.cs
+  h_ae86336e0badd6 16
+Services/Catalog/Infrastructure/SalesOps.Catalog.Persistance/obj/Debug/net9.0/SalesOps.Catalog.Persistance.AssemblyInfoInputs.cache
+  h_ae86336e0badd6 1
+Services/Catalog/Infrastructure/SalesOps.Catalog.Persistance/obj/Debug/net9.0/SalesOps.Catalog.Persistance.sourcelink.json
+  h_ae86336e0badd6 1
+Services/Catalog/Presentation/SalesOps.Catalog.WebApi/Controllers/CategoryController.cs
+  h_ae86336e0badd6 1,10
+Services/Catalog/Presentation/SalesOps.Catalog.WebApi/Controllers/ProductController.cs
+  h_ae86336e0badd6 1,10
+Services/Catalog/Presentation/SalesOps.Catalog.WebApi/Program.cs
+  h_ae86336e0badd6 1-2,19-65,78
+Services/Catalog/Presentation/SalesOps.Catalog.WebApi/SalesOps.Catalog.WebApi.csproj
+  h_ae86336e0badd6 9
+Services/Catalog/Presentation/SalesOps.Catalog.WebApi/bin/Debug/net9.0/SalesOps.Catalog.WebApi.deps.json
+  h_ae86336e0badd6 12,57-67,160-223,323-334,420-426,504-545,630-636
+Services/Catalog/Presentation/SalesOps.Catalog.WebApi/obj/Debug/net9.0/SalesOps.Catalog.WebApi.AssemblyInfo.cs
+  h_ae86336e0badd6 16
+Services/Catalog/Presentation/SalesOps.Catalog.WebApi/obj/Debug/net9.0/SalesOps.Catalog.WebApi.AssemblyInfoInputs.cache
+  h_ae86336e0badd6 1
+Services/Catalog/Presentation/SalesOps.Catalog.WebApi/obj/Debug/net9.0/SalesOps.Catalog.WebApi.MvcApplicationPartsAssemblyInfo.cs
+  h_ae86336e0badd6 16
+Services/Catalog/Presentation/SalesOps.Catalog.WebApi/obj/Debug/net9.0/SalesOps.Catalog.WebApi.csproj.CoreCompileInputs.cache
+  h_ae86336e0badd6 1
+Services/Catalog/Presentation/SalesOps.Catalog.WebApi/obj/Debug/net9.0/SalesOps.Catalog.WebApi.csproj.FileListAbsolute.txt
+  h_ae86336e0badd6 59-66
+Services/Catalog/Presentation/SalesOps.Catalog.WebApi/obj/Debug/net9.0/SalesOps.Catalog.WebApi.genruntimeconfig.cache
+  h_ae86336e0badd6 1
+Services/Catalog/Presentation/SalesOps.Catalog.WebApi/obj/Debug/net9.0/SalesOps.Catalog.WebApi.sourcelink.json
+  h_ae86336e0badd6 1
+Services/Catalog/Presentation/SalesOps.Catalog.WebApi/obj/SalesOps.Catalog.WebApi.csproj.nuget.dgspec.json
+  h_ae86336e0badd6 304-307
+Services/Catalog/Presentation/SalesOps.Catalog.WebApi/obj/project.assets.json
+  h_ae86336e0badd6 50-68,255-348,530-546,725-740,1303-1440,1708-1730,1925,1997-2000
+Services/Catalog/Presentation/SalesOps.Catalog.WebApi/obj/project.nuget.cache
+  h_ae86336e0badd6 3,10,22-27,40
+Services/Catalog/QA-REPORT-Catalog-Service.md
+  h_ae86336e0badd6 1-1076
+Services/Company/Core/SalesOps.Company.Application/obj/Debug/net9.0/SalesOps.Company.Application.AssemblyInfo.cs
+  h_ae86336e0badd6 16
+Services/Company/Core/SalesOps.Company.Application/obj/Debug/net9.0/SalesOps.Company.Application.AssemblyInfoInputs.cache
+  h_ae86336e0badd6 1
+Services/Company/Core/SalesOps.Company.Application/obj/Debug/net9.0/SalesOps.Company.Application.sourcelink.json
+  h_ae86336e0badd6 1
+Services/Company/Core/SalesOps.Company.Domain/obj/Debug/net9.0/SalesOps.Company.Domain.AssemblyInfo.cs
+  h_ae86336e0badd6 16
+Services/Company/Core/SalesOps.Company.Domain/obj/Debug/net9.0/SalesOps.Company.Domain.AssemblyInfoInputs.cache
+  h_ae86336e0badd6 1
+Services/Company/Core/SalesOps.Company.Domain/obj/Debug/net9.0/SalesOps.Company.Domain.sourcelink.json
+  h_ae86336e0badd6 1
+Services/Company/Infrastructure/SalesOps.Company.Persistence/obj/Debug/net9.0/SalesOps.Company.Persistence.AssemblyInfo.cs
+  h_ae86336e0badd6 16
+Services/Company/Infrastructure/SalesOps.Company.Persistence/obj/Debug/net9.0/SalesOps.Company.Persistence.AssemblyInfoInputs.cache
+  h_ae86336e0badd6 1
+Services/Company/Infrastructure/SalesOps.Company.Persistence/obj/Debug/net9.0/SalesOps.Company.Persistence.genruntimeconfig.cache
+  h_ae86336e0badd6 1
+Services/Company/Infrastructure/SalesOps.Company.Persistence/obj/Debug/net9.0/SalesOps.Company.Persistence.sourcelink.json
+  h_ae86336e0badd6 1
+Services/Company/Presentation/SalesOps.Company.WebApi/Controllers/BranchController.cs
+  h_ae86336e0badd6 1,11
+Services/Company/Presentation/SalesOps.Company.WebApi/Controllers/OrganizationController.cs
+  h_ae86336e0badd6 1,10
+Services/Company/Presentation/SalesOps.Company.WebApi/Program.cs
+  h_ae86336e0badd6 1-2,19-65,78
+Services/Company/Presentation/SalesOps.Company.WebApi/SalesOps.Company.WebApi.csproj
+  h_ae86336e0badd6 8
+Services/Company/Presentation/SalesOps.Company.WebApi/bin/Debug/net9.0/SalesOps.Company.WebApi.deps.json
+  h_ae86336e0badd6 11,54-64,486-549,700-711,784-790,980-1021,1134-1140
+Services/Company/Presentation/SalesOps.Company.WebApi/obj/Debug/net9.0/SalesOps.Company.WebApi.AssemblyInfo.cs
+  h_ae86336e0badd6 16
+Services/Company/Presentation/SalesOps.Company.WebApi/obj/Debug/net9.0/SalesOps.Company.WebApi.AssemblyInfoInputs.cache
+  h_ae86336e0badd6 1
+Services/Company/Presentation/SalesOps.Company.WebApi/obj/Debug/net9.0/SalesOps.Company.WebApi.MvcApplicationPartsAssemblyInfo.cs
+  h_ae86336e0badd6 16
+Services/Company/Presentation/SalesOps.Company.WebApi/obj/Debug/net9.0/SalesOps.Company.WebApi.csproj.CoreCompileInputs.cache
+  h_ae86336e0badd6 1
+Services/Company/Presentation/SalesOps.Company.WebApi/obj/Debug/net9.0/SalesOps.Company.WebApi.csproj.FileListAbsolute.txt
+  h_ae86336e0badd6 134-141
+Services/Company/Presentation/SalesOps.Company.WebApi/obj/Debug/net9.0/SalesOps.Company.WebApi.genruntimeconfig.cache
+  h_ae86336e0badd6 1
+Services/Company/Presentation/SalesOps.Company.WebApi/obj/Debug/net9.0/SalesOps.Company.WebApi.sourcelink.json
+  h_ae86336e0badd6 1
+Services/Company/Presentation/SalesOps.Company.WebApi/obj/SalesOps.Company.WebApi.csproj.nuget.dgspec.json
+  h_ae86336e0badd6 292-295
+Services/Company/Presentation/SalesOps.Company.WebApi/obj/project.assets.json
+  h_ae86336e0badd6 47-65,728-821,1092-1108,1282-1297,3018-3155,3513-3535,3734,3803-3806
+Services/Company/Presentation/SalesOps.Company.WebApi/obj/project.nuget.cache
+  h_ae86336e0badd6 3,10,38-43,60
+Services/Employee/Core/SalesOps.Employee.Application/Features/Staffs/Commands/CreateStaffCommand.cs
+  h_ae86336e0badd6 7-10
+Services/Employee/Core/SalesOps.Employee.Application/Features/Staffs/Commands/UpdateStaffCommand.cs
+  h_ae86336e0badd6 8-11
+Services/Employee/Core/SalesOps.Employee.Application/Features/Staffs/Results/StaffResult.cs
+  h_ae86336e0badd6 6-9
+Services/Employee/Core/SalesOps.Employee.Application/SalesOps.Employee.Application.csproj
+  h_ae86336e0badd6 6
+Services/Employee/Core/SalesOps.Employee.Application/obj/Debug/net9.0/SalesOps.Employee.Application.AssemblyInfo.cs
+  h_ae86336e0badd6 16,21
+Services/Employee/Core/SalesOps.Employee.Application/obj/Debug/net9.0/SalesOps.Employee.Application.AssemblyInfoInputs.cache
+  h_ae86336e0badd6 1
+Services/Employee/Core/SalesOps.Employee.Application/obj/Debug/net9.0/SalesOps.Employee.Application.sourcelink.json
+  h_ae86336e0badd6 1
+Services/Employee/Core/SalesOps.Employee.Domain/Entities/Staff.cs
+  h_ae86336e0badd6 6-9
+Services/Employee/Core/SalesOps.Employee.Domain/SalesOps.Employee.Domain.csproj
+  h_ae86336e0badd6 6
+Services/Employee/Core/SalesOps.Employee.Domain/obj/Debug/net9.0/SalesOps.Employee.Domain.AssemblyInfo.cs
+  h_ae86336e0badd6 16,21
+Services/Employee/Core/SalesOps.Employee.Domain/obj/Debug/net9.0/SalesOps.Employee.Domain.AssemblyInfoInputs.cache
+  h_ae86336e0badd6 1
+Services/Employee/Core/SalesOps.Employee.Domain/obj/Debug/net9.0/SalesOps.Employee.Domain.sourcelink.json
+  h_ae86336e0badd6 1
+Services/Employee/Infrastructure/SalesOps.Employee.Persistence/obj/Debug/net9.0/SalesOps.Employee.Persistence.AssemblyInfo.cs
+  h_ae86336e0badd6 16,21
+Services/Employee/Infrastructure/SalesOps.Employee.Persistence/obj/Debug/net9.0/SalesOps.Employee.Persistence.AssemblyInfoInputs.cache
+  h_ae86336e0badd6 1
+Services/Employee/Infrastructure/SalesOps.Employee.Persistence/obj/Debug/net9.0/SalesOps.Employee.Persistence.sourcelink.json
+  h_ae86336e0badd6 1
+Services/Employee/Presentation/SalesOps.Employee.WebApi/Controllers/EmployeesController.cs
+  h_ae86336e0badd6 2,13
+Services/Employee/Presentation/SalesOps.Employee.WebApi/Program.cs
+  h_ae86336e0badd6 1-2,15-61,74-76
+Services/Employee/Presentation/SalesOps.Employee.WebApi/SalesOps.Employee.WebApi.csproj
+  h_ae86336e0badd6 10
+Services/Employee/Presentation/SalesOps.Employee.WebApi/bin/Debug/net9.0/SalesOps.Employee.WebApi.deps.json
+  h_ae86336e0badd6 11,100-110,424,690,695-697,701,703-704,707-709,933,939-941,1136-1142,1381,1384-1386,1388,1391-1393,1549,1552-1554
+Services/Employee/Presentation/SalesOps.Employee.WebApi/obj/Debug/net9.0/SalesOps.Employee.WebApi.AssemblyInfo.cs
+  h_ae86336e0badd6 16
+Services/Employee/Presentation/SalesOps.Employee.WebApi/obj/Debug/net9.0/SalesOps.Employee.WebApi.AssemblyInfoInputs.cache
+  h_ae86336e0badd6 1
+Services/Employee/Presentation/SalesOps.Employee.WebApi/obj/Debug/net9.0/SalesOps.Employee.WebApi.csproj.CoreCompileInputs.cache
+  h_ae86336e0badd6 1
+Services/Employee/Presentation/SalesOps.Employee.WebApi/obj/Debug/net9.0/SalesOps.Employee.WebApi.csproj.FileListAbsolute.txt
+  h_ae86336e0badd6 173
+Services/Employee/Presentation/SalesOps.Employee.WebApi/obj/Debug/net9.0/SalesOps.Employee.WebApi.sourcelink.json
+  h_ae86336e0badd6 1
+Services/Employee/Presentation/SalesOps.Employee.WebApi/obj/SalesOps.Employee.WebApi.csproj.nuget.dgspec.json
+  h_ae86336e0badd6 288-291
+Services/Employee/Presentation/SalesOps.Employee.WebApi/obj/project.assets.json
+  h_ae86336e0badd6 113-131,946,949,952,957,962,965-966,969,974,1365,1368-1369,1372,1377,1876-1891,3748-3749,3751,3761-3764,3767,3771-3772,3774,3784-3787,3790,4329-4330,4332,4342-4345,4348,5030,5095-5098
+Services/Employee/Presentation/SalesOps.Employee.WebApi/obj/project.nuget.cache
+  h_ae86336e0badd6 3,13,48-49,72
+Services/Employee/Tests/SalesOps.Employee.Application.Tests/Features/Staffs/Handlers/GetStaffByIdQueryHandlerTests.cs
+  h_ae86336e0badd6 1-102
+Services/Employee/Tests/SalesOps.Employee.Application.Tests/SalesOps.Employee.Application.Tests.csproj
+  h_ae86336e0badd6 1-26
+Services/Employee/Tests/SalesOps.Employee.Application.Tests/bin/Debug/net9.0/SalesOps.Employee.Application.Tests.deps.json
+  h_ae86336e0badd6 1-764
+Services/Employee/Tests/SalesOps.Employee.Application.Tests/bin/Debug/net9.0/SalesOps.Employee.Application.Tests.runtimeconfig.json
+  h_ae86336e0badd6 1-12
+Services/Employee/Tests/SalesOps.Employee.Application.Tests/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs
+  h_ae86336e0badd6 1-4
+Services/Employee/Tests/SalesOps.Employee.Application.Tests/obj/Debug/net9.0/SalesOps.Employee.Application.Tests.AssemblyInfo.cs
+  h_ae86336e0badd6 1-22
+Services/Employee/Tests/SalesOps.Employee.Application.Tests/obj/Debug/net9.0/SalesOps.Employee.Application.Tests.AssemblyInfoInputs.cache
+  h_ae86336e0badd6 1
+Services/Employee/Tests/SalesOps.Employee.Application.Tests/obj/Debug/net9.0/SalesOps.Employee.Application.Tests.GeneratedMSBuildEditorConfig.editorconfig
+  h_ae86336e0badd6 1-15
+Services/Employee/Tests/SalesOps.Employee.Application.Tests/obj/Debug/net9.0/SalesOps.Employee.Application.Tests.GlobalUsings.g.cs
+  h_ae86336e0badd6 1-9
+Services/Employee/Tests/SalesOps.Employee.Application.Tests/obj/Debug/net9.0/SalesOps.Employee.Application.Tests.csproj.CoreCompileInputs.cache
+  h_ae86336e0badd6 1
+Services/Employee/Tests/SalesOps.Employee.Application.Tests/obj/Debug/net9.0/SalesOps.Employee.Application.Tests.csproj.FileListAbsolute.txt
+  h_ae86336e0badd6 1-122
+Services/Employee/Tests/SalesOps.Employee.Application.Tests/obj/Debug/net9.0/SalesOps.Employee.Application.Tests.genruntimeconfig.cache
+  h_ae86336e0badd6 1
+Services/Employee/Tests/SalesOps.Employee.Application.Tests/obj/Debug/net9.0/SalesOps.Employee.Application.Tests.sourcelink.json
+  h_ae86336e0badd6 1
+Services/Employee/Tests/SalesOps.Employee.Application.Tests/obj/SalesOps.Employee.Application.Tests.csproj.nuget.dgspec.json
+  h_ae86336e0badd6 1-243
+Services/Employee/Tests/SalesOps.Employee.Application.Tests/obj/SalesOps.Employee.Application.Tests.csproj.nuget.g.props
+  h_ae86336e0badd6 1-26
+Services/Employee/Tests/SalesOps.Employee.Application.Tests/obj/SalesOps.Employee.Application.Tests.csproj.nuget.g.targets
+  h_ae86336e0badd6 1-11
+Services/Employee/Tests/SalesOps.Employee.Application.Tests/obj/project.assets.json
+  h_ae86336e0badd6 1-1767
+Services/Employee/Tests/SalesOps.Employee.Application.Tests/obj/project.nuget.cache
+  h_ae86336e0badd6 1-39
+Services/Employee/Tests/SalesOps.Employee.IntegrationTests/SalesOps.Employee.IntegrationTests.csproj
+  h_ae86336e0badd6 1-29
+Services/Employee/Tests/SalesOps.Employee.IntegrationTests/bin/Debug/net9.0/MvcTestingAppManifest.json
+  h_ae86336e0badd6 1-6
+Services/Employee/Tests/SalesOps.Employee.IntegrationTests/bin/Debug/net9.0/SalesOps.Employee.Application.deps.json
+  h_ae86336e0badd6 1-250
+Services/Employee/Tests/SalesOps.Employee.IntegrationTests/bin/Debug/net9.0/SalesOps.Employee.Domain.deps.json
+  h_ae86336e0badd6 1-23
+Services/Employee/Tests/SalesOps.Employee.IntegrationTests/bin/Debug/net9.0/SalesOps.Employee.IntegrationTests.deps.json
+  h_ae86336e0badd6 1-5747
+Services/Employee/Tests/SalesOps.Employee.IntegrationTests/bin/Debug/net9.0/SalesOps.Employee.IntegrationTests.runtimeconfig.json
+  h_ae86336e0badd6 1-19
+Services/Employee/Tests/SalesOps.Employee.IntegrationTests/bin/Debug/net9.0/SalesOps.Employee.Persistence.deps.json
+  h_ae86336e0badd6 1-1596
+Services/Employee/Tests/SalesOps.Employee.IntegrationTests/bin/Debug/net9.0/SalesOps.Employee.WebApi.deps.json
+  h_ae86336e0badd6 1-1680
+Services/Employee/Tests/SalesOps.Employee.IntegrationTests/bin/Debug/net9.0/SalesOps.Employee.WebApi.runtimeconfig.json
+  h_ae86336e0badd6 1-20
+Services/Employee/Tests/SalesOps.Employee.IntegrationTests/bin/Debug/net9.0/SalesOps.Employee.WebApi.staticwebassets.endpoints.json
+  h_ae86336e0badd6 1-5
+Services/Employee/Tests/SalesOps.Employee.IntegrationTests/bin/Debug/net9.0/appsettings.Development.json
+  h_ae86336e0badd6 1-8
+Services/Employee/Tests/SalesOps.Employee.IntegrationTests/bin/Debug/net9.0/appsettings.json
+  h_ae86336e0badd6 1-13
+Services/Employee/Tests/SalesOps.Employee.IntegrationTests/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs
+  h_ae86336e0badd6 1-4
+Services/Employee/Tests/SalesOps.Employee.IntegrationTests/obj/Debug/net9.0/MvcTestingAppManifest.json
+  h_ae86336e0badd6 1-6
+Services/Employee/Tests/SalesOps.Employee.IntegrationTests/obj/Debug/net9.0/SalesOps.Employee.IntegrationTests.AssemblyInfo.cs
+  h_ae86336e0badd6 1-22
+Services/Employee/Tests/SalesOps.Employee.IntegrationTests/obj/Debug/net9.0/SalesOps.Employee.IntegrationTests.AssemblyInfoInputs.cache
+  h_ae86336e0badd6 1
+Services/Employee/Tests/SalesOps.Employee.IntegrationTests/obj/Debug/net9.0/SalesOps.Employee.IntegrationTests.GeneratedMSBuildEditorConfig.editorconfig
+  h_ae86336e0badd6 1-15
+Services/Employee/Tests/SalesOps.Employee.IntegrationTests/obj/Debug/net9.0/SalesOps.Employee.IntegrationTests.GlobalUsings.g.cs
+  h_ae86336e0badd6 1-9
+Services/Employee/Tests/SalesOps.Employee.IntegrationTests/obj/Debug/net9.0/SalesOps.Employee.IntegrationTests.csproj.CoreCompileInputs.cache
+  h_ae86336e0badd6 1
+Services/Employee/Tests/SalesOps.Employee.IntegrationTests/obj/Debug/net9.0/SalesOps.Employee.IntegrationTests.csproj.FileListAbsolute.txt
+  h_ae86336e0badd6 1-472
+Services/Employee/Tests/SalesOps.Employee.IntegrationTests/obj/Debug/net9.0/SalesOps.Employee.IntegrationTests.genruntimeconfig.cache
+  h_ae86336e0badd6 1
+Services/Employee/Tests/SalesOps.Employee.IntegrationTests/obj/Debug/net9.0/SalesOps.Employee.IntegrationTests.sourcelink.json
+  h_ae86336e0badd6 1
+Services/Employee/Tests/SalesOps.Employee.IntegrationTests/obj/SalesOps.Employee.IntegrationTests.csproj.nuget.dgspec.json
+  h_ae86336e0badd6 1-430
+Services/Employee/Tests/SalesOps.Employee.IntegrationTests/obj/SalesOps.Employee.IntegrationTests.csproj.nuget.g.props
+  h_ae86336e0badd6 1-29
+Services/Employee/Tests/SalesOps.Employee.IntegrationTests/obj/SalesOps.Employee.IntegrationTests.csproj.nuget.g.targets
+  h_ae86336e0badd6 1-15
+Services/Employee/Tests/SalesOps.Employee.IntegrationTests/obj/project.assets.json
+  h_ae86336e0badd6 1-5436
+Services/Employee/Tests/SalesOps.Employee.IntegrationTests/obj/project.nuget.cache
+  h_ae86336e0badd6 1-111
+Services/Sales/SalesOps.Sales.WebApi/Controller/SalesController.cs
+  h_ae86336e0badd6 1-91
+Services/Sales/SalesOps.Sales.WebApi/Dtos/CreateSaleDto.cs
+  h_ae86336e0badd6 1-14
+Services/Sales/SalesOps.Sales.WebApi/Dtos/ResultSaleDto.cs
+  h_ae86336e0badd6 1-23
+Services/Sales/SalesOps.Sales.WebApi/Dtos/UpdateSaleDto.cs
+  h_ae86336e0badd6 1-13
+Services/Sales/SalesOps.Sales.WebApi/Entities/Sale.cs
+  h_ae86336e0badd6 1-26
+Services/Sales/SalesOps.Sales.WebApi/Program.cs
+  h_ae86336e0badd6 1-94
+Services/Sales/SalesOps.Sales.WebApi/Properties/launchSettings.json
+  h_ae86336e0badd6 1-23
+Services/Sales/SalesOps.Sales.WebApi/SalesOps.Sales.Api.http
+  h_ae86336e0badd6 1-6
+Services/Sales/SalesOps.Sales.WebApi/SalesOps.Sales.WebApi.csproj
+  h_ae86336e0badd6 1-21
+Services/Sales/SalesOps.Sales.WebApi/Services/Interfaces/ISaleRepository.cs
+  h_ae86336e0badd6 1-31
+Services/Sales/SalesOps.Sales.WebApi/Services/Interfaces/ISaleService.cs
+  h_ae86336e0badd6 1-31
+Services/Sales/SalesOps.Sales.WebApi/Services/Repositories/SaleRepository.cs
+  h_ae86336e0badd6 1-190
+Services/Sales/SalesOps.Sales.WebApi/Services/SaleService.cs
+  h_ae86336e0badd6 1-148
+Services/Sales/SalesOps.Sales.WebApi/appsettings.Development.json
+  h_ae86336e0badd6 1-8
+Services/Sales/SalesOps.Sales.WebApi/appsettings.json
+  h_ae86336e0badd6 1-12
+Services/Sales/SalesOps.Sales.WebApi/bin/Debug/net9.0/SalesOps.Sales.WebApi.deps.json
+  h_ae86336e0badd6 1-394
+Services/Sales/SalesOps.Sales.WebApi/bin/Debug/net9.0/SalesOps.Sales.WebApi.runtimeconfig.json
+  h_ae86336e0badd6 1-19
+Services/Sales/SalesOps.Sales.WebApi/bin/Debug/net9.0/SalesOps.Sales.WebApi.staticwebassets.endpoints.json
+  h_ae86336e0badd6 1-5
+Services/Sales/SalesOps.Sales.WebApi/bin/Debug/net9.0/appsettings.Development.json
+  h_ae86336e0badd6 1-8
+Services/Sales/SalesOps.Sales.WebApi/bin/Debug/net9.0/appsettings.json
+  h_ae86336e0badd6 1-12
+Services/Sales/SalesOps.Sales.WebApi/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs
+  h_ae86336e0badd6 1-4
+Services/Sales/SalesOps.Sales.WebApi/obj/Debug/net9.0/SalesOps.Sales.Api.AssemblyInfo.cs
+  h_ae86336e0badd6 1-22
+Services/Sales/SalesOps.Sales.WebApi/obj/Debug/net9.0/SalesOps.Sales.Api.AssemblyInfoInputs.cache
+  h_ae86336e0badd6 1
+Services/Sales/SalesOps.Sales.WebApi/obj/Debug/net9.0/SalesOps.Sales.Api.GeneratedMSBuildEditorConfig.editorconfig
+  h_ae86336e0badd6 1-21
+Services/Sales/SalesOps.Sales.WebApi/obj/Debug/net9.0/SalesOps.Sales.Api.GlobalUsings.g.cs
+  h_ae86336e0badd6 1-17
+Services/Sales/SalesOps.Sales.WebApi/obj/Debug/net9.0/SalesOps.Sales.WebApi.AssemblyInfo.cs
+  h_ae86336e0badd6 1-22
+Services/Sales/SalesOps.Sales.WebApi/obj/Debug/net9.0/SalesOps.Sales.WebApi.AssemblyInfoInputs.cache
+  h_ae86336e0badd6 1
+Services/Sales/SalesOps.Sales.WebApi/obj/Debug/net9.0/SalesOps.Sales.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+  h_ae86336e0badd6 1-21
+Services/Sales/SalesOps.Sales.WebApi/obj/Debug/net9.0/SalesOps.Sales.WebApi.GlobalUsings.g.cs
+  h_ae86336e0badd6 1-17
+Services/Sales/SalesOps.Sales.WebApi/obj/Debug/net9.0/SalesOps.Sales.WebApi.MvcApplicationPartsAssemblyInfo.cs
+  h_ae86336e0badd6 1-17
+Services/Sales/SalesOps.Sales.WebApi/obj/Debug/net9.0/SalesOps.Sales.WebApi.csproj.CoreCompileInputs.cache
+  h_ae86336e0badd6 1
+Services/Sales/SalesOps.Sales.WebApi/obj/Debug/net9.0/SalesOps.Sales.WebApi.csproj.FileListAbsolute.txt
+  h_ae86336e0badd6 1-53
+Services/Sales/SalesOps.Sales.WebApi/obj/Debug/net9.0/SalesOps.Sales.WebApi.genruntimeconfig.cache
+  h_ae86336e0badd6 1
+Services/Sales/SalesOps.Sales.WebApi/obj/Debug/net9.0/SalesOps.Sales.WebApi.sourcelink.json
+  h_ae86336e0badd6 1
+Services/Sales/SalesOps.Sales.WebApi/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+  h_ae86336e0badd6 1-5
+Services/Sales/SalesOps.Sales.WebApi/obj/Debug/net9.0/staticwebassets.build.json
+  h_ae86336e0badd6 1-12
+Services/Sales/SalesOps.Sales.WebApi/obj/Debug/net9.0/staticwebassets/msbuild.build.SalesOps.Sales.WebApi.props
+  h_ae86336e0badd6 1-4
+Services/Sales/SalesOps.Sales.WebApi/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.SalesOps.Sales.WebApi.props
+  h_ae86336e0badd6 1-3
+Services/Sales/SalesOps.Sales.WebApi/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.SalesOps.Sales.WebApi.props
+  h_ae86336e0badd6 1-3
+Services/Sales/SalesOps.Sales.WebApi/obj/SalesOps.Sales.Api.csproj.nuget.dgspec.json
+  h_ae86336e0badd6 1-82
+Services/Sales/SalesOps.Sales.WebApi/obj/SalesOps.Sales.Api.csproj.nuget.g.props
+  h_ae86336e0badd6 1-16
+Services/Sales/SalesOps.Sales.WebApi/obj/SalesOps.Sales.Api.csproj.nuget.g.targets
+  h_ae86336e0badd6 1-2
+Services/Sales/SalesOps.Sales.WebApi/obj/SalesOps.Sales.WebApi.csproj.nuget.dgspec.json
+  h_ae86336e0badd6 1-94
+Services/Sales/SalesOps.Sales.WebApi/obj/SalesOps.Sales.WebApi.csproj.nuget.g.props
+  h_ae86336e0badd6 1-23
+Services/Sales/SalesOps.Sales.WebApi/obj/SalesOps.Sales.WebApi.csproj.nuget.g.targets
+  h_ae86336e0badd6 1-7
+Services/Sales/SalesOps.Sales.WebApi/obj/project.assets.json
+  h_ae86336e0badd6 1-1203
+Services/Sales/SalesOps.Sales.WebApi/obj/project.nuget.cache
+  h_ae86336e0badd6 1-30
+docker-compose.yml
+  h_ae86336e0badd6 1-90
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "e1fda4d8a19c24c1b6ea4b09126805144b475e65",
+  "prompts": {},
+  "humans": {
+    "h_ae86336e0badd6": {
+      "author": "Kutlu Gungor <kutlu.gungor@kariyer.net>"
+    }
+  }
+}
