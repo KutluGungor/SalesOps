@@ -87,4 +87,5 @@ volumes:
 
 networks:
   SalesOps:
-    external: true
+    name: salesops-network
+    driver: bridge

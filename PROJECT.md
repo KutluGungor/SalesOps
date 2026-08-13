@@ -12,6 +12,30 @@ Firmalar ve şubeleri bazında satış verilerini takip eder, personellerin prim
 
 ---
 
+## 🚀 Yeni Bilgisayara Hızlı Geçiş (Docker)
+
+Veri taşıma/yedek alma gerekmiyorsa, sadece Docker Desktop kurulu olması yeterli:
+
+1. Repoyu klonla
+2. Repo kökünde aşağıdaki scripti çalıştır:
+
+```powershell
+.\scripts\setup-new-machine.ps1
+```
+
+Script şunları otomatik yapar:
+- Docker'ın çalıştığını kontrol eder
+- Gerekli imajları çeker
+- Tüm container'ları ayağa kaldırır
+
+Zorunlu yeniden oluşturma gerekiyorsa:
+
+```powershell
+.\scripts\setup-new-machine.ps1 -Recreate
+```
+
+---
+
 ## 🏗️ Mimari
 
 ```
